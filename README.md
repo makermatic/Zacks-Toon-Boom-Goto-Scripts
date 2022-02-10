@@ -9,7 +9,7 @@ If I make more of these scripts, I'll definitely add them here for sure!
 ## What does Each Script Do
 
 1. `countFrameSelection` - If you select a range of frames in the timeline and run the script, a pop up will show the number of frames selected and how many seconds it is. 
-2. `coinFlip` - Does exactly what you'd think it do. When the flip is done, it'll show a pop-up with the result.
+2. `coinFlip` - Does exactly what you'd think it would do. When the flip is done, it'll show a pop-up with the result.
 3. `toggleStopMoKeys` - When run, it will toggle Stop-Motion Keys on or off in settings. In the Message Log you'll be able to see whether Stop-Mo Keys was turned on or off. 
 
 ## Quick Installation
