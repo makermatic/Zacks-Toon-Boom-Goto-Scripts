@@ -1,9 +1,5 @@
 # Zack's Toon Boom Go-To Scripts
 
-[TOC]
-
-
-
 ## Introduction
 
 These are scripts I made that I use all the time in Toon Boom Harmony. You're free to download, modify, or even reupload these to anywhere else if you'd like. They've made working in Toon Boom way way faster and I hope they can do the same for you!
