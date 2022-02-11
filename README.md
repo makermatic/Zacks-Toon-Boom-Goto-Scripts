@@ -25,5 +25,5 @@ If I make more of these scripts, I'll definitely add them here for sure!
 1. In any of the main windows, right click on the empty top grey bar and select `Scripting`
 2. Click on the ![image-20220210100603171](https://i.ibb.co/QpV43SG/image-20220210100603171.png) icon to open up the mini script manager
 3. Select the script you want to add, click on the only available function for that script
-4. ***Optional:*** To add an icon, click on the `Customize Icon` and upload whatever image you like
+4. ***Optional:*** To add an icon, click on `Customize Icon` and upload whatever image you like
 5. Click on the ![image-20220210100932962](https://i.ibb.co/2K3L7n9/image-20220210100932962.png) icon to add it to your timeline :smile:
