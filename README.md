@@ -12,6 +12,7 @@ If I make more of these scripts, I'll definitely add them here for sure!
 1. `countnodes` - If you selected a range of nodes in the node view and run the script, a pop up will show the number of nodes selected.
 2. `coinFlip` - Does exactly what you'd think it would do. When the flip is done, it'll show a pop-up with the result.
 3. `toggleStopMoKeys` - When run, it will toggle Stop-Motion Keys on or off in settings. In the Message Log you'll be able to see whether Stop-Mo Keys was turned on or off. 
+5. `quickRename` - Opens a popup that let's you rename as many nodes in one place.
 
 ## Quick Installation
 
