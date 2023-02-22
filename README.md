@@ -22,7 +22,7 @@ If I make more of these scripts, I'll definitely add them here for sure!
 4. Double click on whichever script you want to import
    - PRO TIP: If you select the top-most script, hold down `shift`, and select the bottom-most script, you can import all of them at once
 
-## How to add to Timeline with Icons
+## How to add Buttons  to any Window with Icons
 
 1. In any of the main windows, right click on the empty top grey bar and select `Scripting`
 2. Click on the ![image-20220210100603171](https://i.ibb.co/QpV43SG/image-20220210100603171.png) icon to open up the mini script manager
