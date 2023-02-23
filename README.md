@@ -12,14 +12,15 @@ If I make more of these scripts, I'll definitely add them here for sure!
 2. `renameMaster-P` - Same as `quickRename`, except it also adds `master-P` after the name you input (pegs only). 
    - Example: If you input "clown,"  the peg will be renamed to `clown_master-P`.
 3. `addXSub` - Adds a drawing sub named `x` to each selected drawing (element).
-4. `toggleOpacity` - Toggles the opacity of selected drawings back and forth between 50 and 100.
-5. `toggleCompositeMode` - Toggles selected composites between bitmap and passthrough.
-6. `toggleStopMoKeys` - When run, it will toggle Stop-Motion Keys on or off in settings. In the Message Log you'll be able to see whether Stop-Mo Keys was turned on or off. 
-7. `turnOffAnimTools` - Toggles `Animate with Animation Tools` off on selected drawings, just in case you didn't change the default value in preferences.
-8. `setMCtoAlwaysOn` - Toggles "Show Controls Mode" to `Always` on selected Master Controllers.
-9. `countFrameSelection` - If you select a range of frames in the timeline and run the script, a pop up will show the number of frames selected and how many seconds it is. 
-10. `countnodes` - Displays a pop up that shows the number of nodes selected.
-11. `coinFlip` - Self explanatory. When the flip is done, it'll show a pop-up with the result.
+4. `fbSwap` - toggles between `b` and `f` on selected pegs and drawings. In other words, it changes f_arm to b_arm in seconds rather than minutes
+5. `toggleOpacity` - Toggles the opacity of selected drawings back and forth between 50 and 100.
+6. `toggleCompositeMode` - Toggles selected composites between bitmap and passthrough.
+7. `toggleStopMoKeys` - When run, it will toggle Stop-Motion Keys on or off in settings. In the Message Log you'll be able to see whether Stop-Mo Keys was turned on or off. 
+8. `turnOffAnimTools` - Toggles `Animate with Animation Tools` off on selected drawings, just in case you didn't change the default value in preferences.
+9. `setMCtoAlwaysOn` - Toggles "Show Controls Mode" to `Always` on selected Master Controllers.
+10. `countFrameSelection` - If you select a range of frames in the timeline and run the script, a pop up will show the number of frames selected and how many seconds it is. 
+11. `countnodes` - Displays a pop up that shows the number of nodes selected.
+12. `coinFlip` - Self explanatory. When the flip is done, it'll show a pop-up with the result.
 
 ## Quick Installation without Icons
 
