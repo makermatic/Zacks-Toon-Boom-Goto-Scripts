@@ -21,6 +21,10 @@ If I make more of these scripts, I'll definitely add them here for sure!
 10. `countFrameSelection` - If you select a range of frames in the timeline and run the script, a pop up will show the number of frames selected and how many seconds it is. 
 11. `countnodes` - Displays a pop up that shows the number of nodes selected.
 12. `coinFlip` - Self explanatory. When the flip is done, it'll show a pop-up with the result.
+13. `bakeNames` - Renames a selected node to whatever it is attached to or from, depending on which function you use:
+    1. `bakeBelow()` - Renames the node based on the **peg** *above* it.
+    2. `bakeAbove()` - Renames the node based on the **drawing** *below* it.
+
 
 ## Quick Installation without Icons
 
