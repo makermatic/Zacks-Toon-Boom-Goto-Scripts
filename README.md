@@ -24,6 +24,7 @@ If I make more of these scripts, I'll definitely add them here for sure!
 13. `bakeNames` - Renames a selected node to whatever it is attached to or from, depending on which function you use:
     1. `bakeBelow()` - Renames the node based on the **peg** *above* it.
     2. `bakeAbove()` - Renames the node based on the **drawing** *below* it.
+14. `checkZeroPivots` - Select all your nodes and the Message Log will tell you which pegs have haven't had their pivots moved
 
 
 ## Quick Installation without Icons
