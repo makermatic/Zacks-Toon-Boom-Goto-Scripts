@@ -40,4 +40,9 @@ If I make more of these scripts, I'll definitely add them here for sure!
 1. In any of the main windows, right click on the empty top grey bar and select `Customize`.
 2. In the search bar, search for the script you want to add.
 3. Select the script you want to add, it should look like `Script: scriptName in scriptName.js`.
-5. Click on the ![image-20220210100932962](https://i.ibb.co/2K3L7n9/image-20220210100932962.png) icon to add it to your timeline :smile:.
+4. Click on the ![image-20220210100932962](https://i.ibb.co/2K3L7n9/image-20220210100932962.png) icon to add it to your timeline :smile:
+
+## Known Issues/Caveats
+
+1. `fbSwap` doesn't rename groups/deformation groups.
+2. `quickRename` won't rename elements if underscores are not typed in manually
