@@ -32,7 +32,7 @@ function renameNodes(newName) {
         if (node.type(currentNode) == "PEG") {
             node.rename(currentNode, newName + "-P");
         } else if (node.type(currentNode) == "READ") {
-            // Get id rename and rename by ID
+            // Get ID & rename by ID
             var elementId = node.getElementId(currentNode);
             element.renameById(elementId, newName);
         } else {
