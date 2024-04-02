@@ -31,6 +31,10 @@ function renameNodes(newName) {
         // Rename, and add a "-P" to the end if selected node is a Peg
         if (node.type(currentNode) == "PEG") {
             node.rename(currentNode, newName + "-P");
+        } else if (node.type(currentNode) == "READ") {
+            // Get id rename and rename by ID
+            var elementId = node.getElementId(currentNode);
+            element.renameById(elementId, newName);
         } else {
             node.rename(currentNode, newName);
         }
